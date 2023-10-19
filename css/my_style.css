@@ -1,0 +1,105 @@
+.blu{
+    background-color: #101098;
+}
+
+.bgimg{
+    background-image: image(moccasin);
+}
+
+
+.pinkbg{
+    background-color: #dcb4ca;
+}
+
+.bademjon{
+    background-color: rebeccapurple;
+}
+
+.rg{
+    background-color: #c791c5;
+}
+
+
+.doble{
+    background-image: linear-gradient(khaki , #575656);
+}
+
+
+
+.back{
+background-image: linear-gradient(cyan , magenta );
+}
+
+
+
+
+
+
+.action:before{
+    background: #0a53be;
+    border: 1px dot-dash;
+    width: 300px;
+    height: 300px;
+    z-index: 50;
+
+}
+
+
+
+
+.action{
+border: 1px solid black;
+
+    width: 150px;
+    height: 150px;
+
+z-index: 100  ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wid{
+    width: 15%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
